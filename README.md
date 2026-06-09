@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi Karnekota 👋
 
-<!--
-**vaishnavi241205/vaishnavi241205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Graduate in Mathematics, Statistics, and Computer Science
 
-Here are some ideas to get you started:
+💻 Aspiring Data Analyst | Data Science Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Interested in:
+- Data Analysis
+- Statistics
+- Python Programming
+- SQL
+- Data Visualization
+
+🌱 Currently Learning:
+- Python
+- SQL
+- Excel
+- Power BI
+
+📫 Connect with me:
+LinkedIn: [http://www.linkedin.com/in/vaishnavi-karnekota-a79354394]
+Naukri:[https://github.com/vaishnavi241205]
+Email: [karnekotavaishnavi@gmail.com]
