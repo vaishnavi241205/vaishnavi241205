@@ -18,6 +18,6 @@
 - Power BI
 
 📫 Connect with me:
-LinkedIn: [http://www.linkedin.com/in/vaishnavi-karnekota-a79354394]
+LinkedIn: [http://www.linkedin.com/in/vaishnavi-karnekota-a79354394];
 Naukri:[https://github.com/vaishnavi241205]
 Email: [karnekotavaishnavi@gmail.com]
